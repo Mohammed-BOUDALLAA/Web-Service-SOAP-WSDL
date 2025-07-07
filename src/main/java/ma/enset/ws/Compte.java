@@ -1,4 +1,4 @@
-package ma.enset;
+package ma.enset.ws;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

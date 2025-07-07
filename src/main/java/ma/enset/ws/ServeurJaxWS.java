@@ -1,8 +1,6 @@
-package ma.enset;
+package ma.enset.ws;
 
 import javax.xml.ws.Endpoint;
-
-import  javax.xml.ws.Endpoint;
 
 public class ServeurJaxWS {
     public static void main(String[] args) {
